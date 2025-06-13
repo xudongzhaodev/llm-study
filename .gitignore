@@ -1,0 +1,42 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb~  
+*.nbconvert.ipynb
+
+# Gradio
+.gradio/
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+dist/
+build/
+
+# VSCode / PyCharm
+.vscode/
+.idea/
+
+
+.env
+.venv/
+env/
+venv/
+*.env
+
+
+.DS_Store
+Thumbs.db
+
+# Git
+.git/
+
+# Chromadb
+chroma_store
+
+# Document
+docs
+
+anaconda_projects/
